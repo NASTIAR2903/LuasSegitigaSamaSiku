@@ -1,4 +1,4 @@
-# Cara Menjalankan Program Faktorial dengan Input Pengguna di IntelliJ
+# Cara Menjalankan Program Hitung Luas Segitiga Sama Siku dengan Input Pengguna di IntelliJ
 
 Ini adalah panduan singkat tentang cara menjalankan program Hitung Luas di IntelliJ menggunakan bahasa pemrograman Java dengan fitur input pengguna.
 
